@@ -14,7 +14,7 @@ This is a **modern Weather App** that fetches **real-time weather data** using t
 
 ## 🎨 Screenshots
 ![Weather App Preview](link-to-screenshot.png)  
-_(Upload your screenshot and replace the link)_  
+  
 
 ## 🚀 Live Demo
 🔗 [Live Project](https://your-live-demo-link.com) _(Replace with your hosted link)_  
