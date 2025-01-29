@@ -1,7 +1,7 @@
 # 🌦️ Weather App
 
 ## 📌 Overview
-This is a **modern Weather App** that fetches **real-time weather data** using the **[OpenWeather API](https://openweathermap.org/)** and displays it with a **sleek glassmorphism UI, smooth transitions, and error handling**.  
+This is a **Simple modern Weather App** that fetches **real-time weather data** using the **[OpenWeather API](https://openweathermap.org/)** and displays it with a **sleek glassmorphism UI, smooth transitions, and error handling**.  
 
 🚀 **Tech Stack:** HTML | CSS | JavaScript | OpenWeather API  
 
@@ -13,11 +13,14 @@ This is a **modern Weather App** that fetches **real-time weather data** using t
 ✅ **Responsive Design** (Works on all devices)  
 
 ## 🎨 Screenshots
-![Weather App Preview](link-to-screenshot.png)  
+### 🌤️ Weather App Preview
+![preview-initial](https://github.com/user-attachments/assets/76f59bbe-1ffb-492a-8a8d-2f85fdaf5d1d)
+![preview-info](https://github.com/user-attachments/assets/e04be5f1-f585-418d-b59f-d38de29515f2)
+
   
 
 ## 🚀 Live Demo
-🔗 [Live Project](https://your-live-demo-link.com) _(Replace with your hosted link)_  
+https://github.com/user-attachments/assets/786565eb-ba63-4fcf-99d8-1084fc398ebf
 
    ```
 2. **Navigate into the project directory**
