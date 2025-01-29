@@ -58,6 +58,6 @@ This project is **free to use** and does not require any license.
 
 ## 🤝 Connect With Me
 📧 Email: aakroshrai15@gmail.com  
-🔗 LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/aakrosh-rai-7332b7314/)  
-📂 GitHub: [Your GitHub](https://github.com/yourusername)
+🔗 LinkedIn: [Aakrosh](https://www.linkedin.com/in/aakrosh-rai-7332b7314/)  
+📂 GitHub: [IerenoLXI](https://github.com/IerenoLXI)
 
